@@ -30,7 +30,7 @@ const siteProps = {
   linkedIn: "khushi-srivastava-ab029621b",
   medium: "",
   twitter: "microsoft",
-  youTube: "@secretrockers3021",
+  youTube: "secretrockers3021",
 };
 
 const primaryColor = "#4E567E";
