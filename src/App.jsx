@@ -3,9 +3,7 @@
  *
  * To contain application wide settings, routes, state, etc.
  */
-
 import React from "react";
-
 import About from "./Components/About";
 import Footer from "./Components/Footer";
 import Header from "./Components/Header";
@@ -24,15 +22,15 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  name: "Khushi Srivastava",
+  title: "Pre-Final year CSE Undergrad, Competitive Programmer, Full-Stack Web Developer",
+  email: "srivastavakhushi582@gmail.com",
+  gitHub: "Khushisrivastava9",
+  instagram: "khushisrivastava973",
+  linkedIn: "https://www.linkedin.com/in/khushi-srivastava-ab029621b/",
   medium: "",
   twitter: "microsoft",
-  youTube: "Code",
+  youTube: "http://www.youtube.com/@secretrockers3021",
 };
 
 const primaryColor = "#4E567E";

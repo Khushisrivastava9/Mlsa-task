@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/project.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "project image";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Job Finder Web App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Engineered a cutting-edge MERN stack solution for the Job Finder project, integrating Vite and React; leveraged Tailwind CSS to craft a visually stunning interface.",
+    url: "https://jobfinderwebapp.netlify.app/user-auth",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Travel Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Discover the world with our travel website. Explore breathtaking destinations, find exclusive deals, and plan your perfect getaway effortlessly. Whether you seek adventure, relaxation, or cultural immersion, we're here to make your travel dreams a reality. Start your journey today!",
+    url: "https://github.com/Khushisrivastava9/Travel-website",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created the resume using Ms Word. Includes my experience and skills.",
+    url: "https://drive.google.com/file/d/1baEZ_wDrtXJXRt5nB6pV9UXdr83NqkoG/view?usp=sharing",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Grocery Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The Local Grocery store will provide all the facilities online with home delivery as soon as possible on customer demand.Here the Retailer checks for the availability, delivery, and shortage of goods in the store and proper payment during this process.",
+    url: "https://github.com/Khushisrivastava9/Grocery-website",
   },
 ];
 
