@@ -27,10 +27,10 @@ const siteProps = {
   email: "srivastavakhushi582@gmail.com",
   gitHub: "Khushisrivastava9",
   instagram: "khushisrivastava973",
-  linkedIn: "https://www.linkedin.com/in/khushi-srivastava-ab029621b/",
+  linkedIn: "khushi-srivastava-ab029621b",
   medium: "",
   twitter: "microsoft",
-  youTube: "http://www.youtube.com/@secretrockers3021",
+  youTube: "@secretrockers3021",
 };
 
 const primaryColor = "#4E567E";
